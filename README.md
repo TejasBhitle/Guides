@@ -3,7 +3,7 @@ Guides
 
 Guides for learning + doing better web and app development. Created by [Coding For Entrepreneurs](http://joincfe.com).
 
-[Common Django URL Regular Expression Patters (regex)](./all/common_url_regex.md)
+[Common Django URL Regular Expression Patterns (regex)](./all/common_url_regex.md)
 
 [Celery & Redis with Django](./all/Celery_Redis_with_Django.md)
 
@@ -18,6 +18,8 @@ Guides for learning + doing better web and app development. Created by [Coding F
 [Render to PDF in Django](./all/Render_to_PDF_in_Django.md)
 
 [Reactivate Virtual Environment](./all/reactivate_virtualenv.md)
+
+[Reactivar un Entorno Virtual](./es/reactivar_un_virtualenv.md)
 
 [Using South in Django](./all/using_south_in_django.md)
 

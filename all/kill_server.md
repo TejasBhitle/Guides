@@ -28,7 +28,7 @@ python  1158 jmitch    3u  IPv4 0x4ae303085ae91559      0t0  TCP localhost:irdmi
 Except under "jmitch" it would have your username. Do you see the value under "PID" this is the number you need. Now you just kill that process.
 
 ```
-$ kill - 9 1158
+$ kill -9 1158
 ```
 
 Let's do that one more time:
@@ -44,6 +44,13 @@ $ kill -9 4894
 ```
 
 And that's it. You can kill this server without an error running.
+
+Alternatively we can use the `fg` command in linux, which brings our processes to the foreground, and than press `ctrl + c` to quit the server.
+For more help on fg use :
+
+```
+$ help fg
+```
 
 Please share questions/comments! (We're always looking for better ways to improve).
 
